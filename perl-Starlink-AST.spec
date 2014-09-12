@@ -68,6 +68,5 @@ rm -rf $RPM_BUILD_ROOT
 %{perl_vendorarch}/Starlink/AST/*.pm
 %dir %{perl_vendorarch}/auto/Starlink
 %dir %{perl_vendorarch}/auto/Starlink/AST
-%{perl_vendorarch}/auto/Starlink/AST/*.bs
 %attr(755,root,root) %{perl_vendorarch}/auto/Starlink/AST/*.so
 %{_mandir}/man3/*
