@@ -4,7 +4,6 @@
 #
 %define		pdir	Starlink
 %define		pnam	AST
-%include	/usr/lib/rpm/macros.perl
 Summary:	Starlink::AST - Interface to the Starlink AST library
 Name:		perl-Starlink-AST
 Version:	1.02
