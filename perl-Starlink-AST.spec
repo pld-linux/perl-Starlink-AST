@@ -8,7 +8,7 @@ Summary:	Starlink::AST - Interface to the Starlink AST library
 Summary(pl.UTF-8):	Starlink::AST - interfejs do biblioteki Starlink AST
 Name:		perl-Starlink-AST
 Version:	1.05
-Release:	1
+Release:	2
 License:	open_source
 Group:		Development/Languages/Perl
 Source0:	https://www.cpan.org/modules/by-authors/id/T/TJ/TJENNESS/Starlink-AST-%{version}.tar.gz
